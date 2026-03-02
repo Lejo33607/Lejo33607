@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Lejo33607/Lejo33607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-- °My name is Alejandro Gonzalez, I'm 18yo. 🌐
 
-Here are some ideas to get you started:
+- °I'm currently learning python and somethings abt git. 📝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- °I'm passionate to character writing from the media/fiction or fiction in general / videogames. 📖
+
+- °Ask me abt that. ⬆️
+
+- °I'm a curious true teammate who cares about teamwork and taking care of his own team. 🐜
+
+- °The languages ​​I am strong in: Python and spanish. 😆
+
+- °I'm looking for work in anything you can imagine, always with optimism. 
+
+## - °A coder from riwi! 🐉
