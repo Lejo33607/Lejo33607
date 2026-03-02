@@ -4,14 +4,14 @@
 
 - °I'm currently learning python and somethings abt git. 📝
 
-- °I'm passionate to character writing from the media/fiction or fiction in general / videogames. 📖
+- °I'm passionate abt character writing from the media/fiction or fiction in general / videogames. 📖
 
 - °Ask me abt that. ⬆️
 
-- °I'm a curious true teammate who cares about teamwork and taking care of his own team. 🐜
+- °I'm a true teammate who cares about teamwork and taking care of his own team. 🐜
 
-- °The languages ​​I am strong in: Python and spanish. 😆
+- °The languages ​​I am strong in: Python and Spanish. 😆
 
 - °I'm looking for work in anything you can imagine, always with optimism. 
 
-## - °A coder from riwi! 🐉
+## - °A coder from Riwi! 🐉
