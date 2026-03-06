@@ -4,7 +4,7 @@
 
 - °I'm currently learning python and somethings abt git. 📝
 
-- °I'm passionate abt character writing from the media/fiction or fiction in general / videogames. 📖
+- °I'm passionate abt character writing from the media/fiction or fiction / videogames in general. 📖
 
 - °Ask me abt that. ⬆️
 
