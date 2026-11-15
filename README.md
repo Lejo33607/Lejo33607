@@ -26,6 +26,16 @@ A modular command-line application for managing products and inventory records.
 
 [View repository](https://github.com/Lejo33607/Inventariooo2-SM3)
 
+### Parking Lot Management System — Python
+A command-line exercise that simulates a 10-space parking lot.
+
+- Displays available and occupied spaces.
+- Registers and removes vehicles by license plate.
+- Checks for duplicate vehicles and a full parking lot.
+- Practices lists, loops, conditionals, and state updates.
+
+[View repository](https://github.com/Lejo33607/Proyecto-P)
+
 ### TeamTask — Collaborative project management app
 A collaborative learning project for students and small teams. The project includes a web frontend, a Node.js/Express backend, and a PostgreSQL database.
 
